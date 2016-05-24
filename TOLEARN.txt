@@ -1,0 +1,6 @@
+1. Version history of a specific branch
+2. Compare Branch to branch
+3. Fork
+4. Hooks
+5. Automatic merge of develop to release
+6. Commands to get diff of local versus committed, local vs staged, staged vs committed
