@@ -1,4 +1,3 @@
-# gitplay
-Git Play
-line3
-in develop
+Clone of gitplay repo in Github
+GitLab login: priju25@yahoo.com
+Pwd: D@5
