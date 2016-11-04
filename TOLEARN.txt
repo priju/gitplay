@@ -5,4 +5,5 @@
 5. Automatic merge of develop to release
 6. Commands to get diff of local versus committed, local vs staged, staged vs committed
 7. Pull Requests
+8. GitHub check status
 
