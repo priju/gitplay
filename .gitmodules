@@ -1,0 +1,3 @@
+[submodule "jenkinsplay"]
+	path = jenkinsplay
+	url = https://github.com/priju/jenkinsplay
